@@ -1,0 +1,4 @@
+Move all files in vim folder to $HOME/.vim folder.
+Make a symbolic link from $HOME/.vimrc to $HOME/.vim/vimrc
+
+If you have questions message me over github.
