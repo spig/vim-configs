@@ -1,4 +1,3 @@
-Move all files in vim folder to $HOME/.vim folder.
-Make a symbolic link from $HOME/.vimrc to $HOME/.vim/vimrc
+Move the vim folder to your $HOME directory or another location. Then create a symbolic link from the vim/vimrc to $HOME/.vimrc. If you already have a $HOME/.vimrc file just merge the contents of the old .vimrc file to the vim/vimrc file and then replace $HOME/.vimrc with the symbolic link..
 
 If you have questions message me over github.
